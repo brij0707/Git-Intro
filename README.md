@@ -14,8 +14,10 @@ Git is basically used to keep a version track of any file. This helps coders to 
   
 **2. Creating your first repository**
   - A repository is like a folder in which you will be keeping your files. To can have either Public or Private repositories in your account. You can create sub-folders and keep images, files, videos etc.. When ever you change anything its revision history is stored inside.
-  - In the upper right corner you will have + drowp down menu. Click on "New Repository" from there. or you can directly click on the profile on right top corner and you will see in the top ribbon of your profile an option stating repository. Click on that and click "NEW". ![image](https://user-images.githubusercontent.com/52787434/185733270-c5bcb0ec-70fc-44a5-b70b-1510ff0d0aa1.png)
+  - In the upper right corner you will have + drowp down menu. Click on "New Repository" from there. or you can directly click on the profile on right top corner and you will see in the top ribbon of your profile an option stating repository. Click on that and click "NEW".
+  ![image](https://user-images.githubusercontent.com/52787434/185733270-c5bcb0ec-70fc-44a5-b70b-1510ff0d0aa1.png)
   -  You can now add a readme.md file and then click on commit.
+  - **To learn more about creating repository, check this [link](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)**
 
 **3. Creating folder/adding files**
   - To create any folder, click on "Add File"
@@ -25,5 +27,6 @@ Git is basically used to keep a version track of any file. This helps coders to 
      
 **4. Formatting readme file**
   - Formatting a readme file is a tidious task at beggineer level, but as you practice it becomes lot more easier. Check the folder "[Writing and Formatting](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting)" for more detail.
+
 
 ---
