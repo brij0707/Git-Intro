@@ -1,17 +1,17 @@
 # Learn how to write and format your Readme file
 
 Content of this file will be as follows:
-1. Headings
-2. Styling text
-3. Quoting text
-4. Quoting code
-5. Links
+1. [Headings](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#headings)
+2. [Styling text](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#styling-text)
+3. [Quoting text](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#quoting-text)
+4. [Quoting code](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#quoting-code)
+5. [Links](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#links)
 6. [Section links](https://github.com/brij0707/Git-Intro/edit/main/Writing%20and%20Formatting/Readme.md#section-link)
-7. Images
-8. Lists
-9. Task lists
-10. Emoji
-11. Learn More
+7. [Images](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#images)
+8. [Lists](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#lists)
+9. [Task lists](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#task-lists)
+10.[Emoji](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#emoji)
+11. [Learn More](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#learn-more)
 ---
 ## Headings
   To make a heading we can use # symbol before the text. Minimum 1 and maximum 6 # can be used. As Hash sysmbol increases. size of heading starts decreasing.
