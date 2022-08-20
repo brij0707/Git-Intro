@@ -10,7 +10,7 @@ Content of this file will be as follows:
 7. [Images](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#images)
 8. [Lists](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#lists)
 9. [Task lists](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#task-lists)
-10.[Emoji](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#emoji)
+10. [Emoji](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#emoji)
 11. [Learn More](https://github.com/brij0707/Git-Intro/tree/main/Writing%20and%20Formatting#learn-more)
 ---
 ## Headings
