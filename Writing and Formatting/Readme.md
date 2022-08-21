@@ -79,7 +79,9 @@ Content of this file will be as follows:
   
   Learn more about formatting from [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text)
   
-  # Hope you liked it. Thanks for reading. Dont forget to like this. 
+  ## Hope you liked it. Thanks for reading. Dont forget to like this. 
+  
+  # Here is a shortcut for you, :wink: use this link to make this readme file automatically for you. ***[Click Here](https://pandao.github.io/editor.md/en.html)***
   
     
     
